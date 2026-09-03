@@ -1,6 +1,6 @@
 {
   "name": "oskari-frontend-lounaistieto",
-  "version": "2.3.0-dev",
+  "version": "2.3.0",
   "description": "Oskari frontend of Lounaistieto. Site visible at https://karttapalvelu.lounaistieto.fi.",
   "keywords": [
     "Oskari"
