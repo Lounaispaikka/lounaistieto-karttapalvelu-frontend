@@ -9,12 +9,12 @@ import 'oskari-loader!oskari-frontend/packages/framework/bundle/divmanazer/bundl
 import 'oskari-bundle!oskari-frontend/bundles/mapping/mapmodule/map2d_ol';
 import 'oskari-bundle!oskari-frontend/bundles/mapping/maparcgis';
 
-import 'oskari-loader!../../packages/lounaistieto/bundle/lounaistieto-lang-overrides/bundle.js';
+import 'oskari-bundle!../../bundles/lounaistieto/lounaistieto-lang-overrides';
 
 
+import 'oskari-bundle!oskari-frontend/bundles/mapping/infobox';
 import 'oskari-bundle!oskari-frontend/bundles/mapping/drawtools';
 import 'oskari-bundle!oskari-frontend/bundles/mapping/toolbar';
-import 'oskari-bundle!oskari-frontend/bundles/mapping/infobox';
 import 'oskari-bundle!oskari-frontend/bundles/mapping/userstyle';
 import 'oskari-bundle!oskari-frontend/bundles/catalogue/metadataflyout'
 import 'oskari-bundle!oskari-frontend/bundles/framework/coordinatedisplay';
